@@ -1,0 +1,273 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Happy be lucky, or, A catalogue of books to be sold by lottery. Pars secunda wherein no man puts above a shilling and the fortunate lotts are above one half, the adventurers may repair to D. Newman at the Blind Bear in Rebel-Lane where the lotts will be drawn the next fast-day.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45506</idno>
+            <idno type="STC">Wing H665B</idno>
+            <idno type="STC">ESTC R40941</idno>
+            <idno type="EEBO-CITATION">19537348</idno>
+            <idno type="OCLC">ocm 19537348</idno>
+            <idno type="VID">109051</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45506)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109051)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1689:7 or 1794:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Happy be lucky, or, A catalogue of books to be sold by lottery. Pars secunda wherein no man puts above a shilling and the fortunate lotts are above one half, the adventurers may repair to D. Newman at the Blind Bear in Rebel-Lane where the lotts will be drawn the next fast-day.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>169-?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Item at reel 1689:7 imperfect: slightly faded.</note>
+                  <note>Item at reel 1794:17 imperfect: torn and stained with some loss of print.</note>
+                  <note>Item at reel 1689:7 identified as Wing H665A.</note>
+                  <note>Reproductions of originals in the Harvard University Library and Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catalogs, Booksellers' --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="catalogue">
+            <pb facs="tcp:109051:1"/>
+            <pb n="1" facs="tcp:109051:1"/>
+            <head>
+               <hi>Happy be Lucky. <hi>OR,</hi>
+               </hi> A Catalogue of Books to be ſold by Lottery, wherein no Man puts above a Shilling, and the Fortunate Lotts are above one half; the Adventurers may repair to <hi>D. Newman</hi> at the <hi>Blind Bear</hi> in <hi>Rebel-Lane;</hi> where the Lotts will be drawn the next Fast-Day.</head>
+            <list>
+               <head>PARS SECUNDA.</head>
+               <item>1. <hi>HOcus Pocus:</hi> Or <hi>Machiavil Eccleſiaſticus,</hi> A Treatiſe containing and fully deſcribing the whole Art of <hi>Ec<g ref="char:EOLhyphen"/>cleſiaſtical</hi> and <hi>State-Juggling.</hi> In large <hi>Folio.</hi> By <hi>Po<g ref="char:EOLhyphen"/>litico-Theologus,</hi> a <hi>North-Countrey Anabaptiſt</hi> Epiſcopi<g ref="char:EOLhyphen"/>zing in the South.</item>
+               <item>2. <hi>Regula Sancti Henrici:</hi> Or a Collection of all the <hi>Canons</hi> which authoriſe <hi>Biſhops</hi> to wear <hi>Blew Cloaks</hi> and <hi>Jack-Boots,</hi> when they are to take care of <hi>other Men's Wives:</hi> Compiled by <hi>Car. Al — n;</hi> and Dedicated to the <hi>Reverend Father</hi> (in what you pleaſe but God) <hi>H.</hi> Ld. Bp. of <hi>L—.</hi>
+               </item>
+               <item>3. <hi>Hoc eſt Corpus:</hi> Or <hi>State-Tranſubſtantiation,</hi> A learned and ela<g ref="char:EOLhyphen"/>borate Treatiſe (ſtoln from the moſt able Popiſh Writers) wonder<g ref="char:EOLhyphen"/>fully proving the Miraculous Converſion of a <hi>Lawleſs Convention</hi> in<g ref="char:EOLhyphen"/>to a <hi>Legal Parliament,</hi> by the <hi>Iriſh Saint,</hi> but an <hi>Engliſh Devil.</hi>
+               </item>
+               <item>4. <hi>Non eſt Inventus:</hi> Or an Anſwer to a Treatiſe entituled, <hi>A HUE and CRT</hi> after the <hi>Ne plus ultra</hi> of a <hi>Latitudinarian Conſcience;</hi> Dedicated to the Ld. <hi>N—ms</hi> Chaplain at <hi>N—ich.</hi>
+               </item>
+               <item>5. <hi>Annus Mirabilis:</hi> Or the Year 1694 divided into 8 Quarters, Demonſtrated from Two late Acts of Parliament; The one for 4 <hi>Quarterly Payments of a Land Tax;</hi> The other for 4 <hi>Quarterly Pay<g ref="char:EOLhyphen"/>ments of a Poll Tax:</hi> Publiſhed for the Satisfaction of all <hi>Free En<g ref="char:EOLhyphen"/>gliſh-men,</hi> if any ſuch can be found.</item>
+               <pb n="2" facs="tcp:109051:2"/>
+               <item>6. <hi>Infoelix Arbor:</hi> Or <hi>John Le-Mot Honywood</hi>'s Legacy to the <hi>Houſe of Commons,</hi> being <hi>Two pence</hi> a piece to all his <hi>Brother-Penſi<g ref="char:EOLhyphen"/>oners,</hi> to buy each of them an H—r, That they may ſpeedily fol<g ref="char:EOLhyphen"/>low his good Example. <hi>Opus Poſthumum.</hi>
+               </item>
+               <item>7. <hi>Or<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s Depopulatio:</hi> Or the Art of drawing Teeth with Gun<g ref="char:EOLhyphen"/>powder; Being an extraordinary Invention lately diſcovered by an <hi>Enn<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sk<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lling Captain;</hi> and now made Publick for the Benefit of all <hi>little Operators</hi> and <hi>Corn-cutters,</hi> By Sir <hi>Humph<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>y G—re.</hi>
+               </item>
+               <item>8. <hi>Dulcis odor Lucri, &amp;c.</hi> Or the Juſtice and Reaſonableneſs of Licenſing 10000 <hi>Bawdy Houſes,</hi> in order to raiſe a <hi>M<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll on Fund,</hi> for carrying on a <hi>Villainous</hi> (a Vigorous it ſhould be) War againſt <hi>France:</hi> Made out as clear as the Sun in a Cucumer, being a dainty fine elegant Piece, By a <hi>Lady of Honour.</hi>
+               </item>
+               <item>9 <hi>Jas Belgicum:</hi> Or a Juſtification of the preſent Impoſition of <hi>Tunnage</hi> and <hi>Poundage, extravagant Taxes</hi> and <hi>Polls, exceſſive Fines, illegal Impriſonments</hi> and all the <hi>Arbitrary Proceedings</hi> complained of, without Cauſe, in the late Reigns, and actually practiſed in this. By a <hi>Penſioned Conventioner</hi> and <hi>ſworn Enemy of his Country,</hi> Licenſed by Sir <hi>G. T—y:</hi> Printed by <hi>R. Baldwin,</hi> and are to be Sold in St. <hi>Stephens Chappel</hi> near <hi>Weſtminſter-Hall.</hi>
+               </item>
+               <item>10. <hi>Creatio Reformata,</hi> i.e. <hi>Moſes</hi> whipt into a Hand-Basket, or <hi>Geneſis</hi> reduced to a <hi>Chaos,</hi> being an excellent <hi>Tranſlation</hi> done from the <hi>Original,</hi> by the <hi>Maſter</hi> of the <hi>Charter Houſe.</hi>
+               </item>
+               <item>11. <hi>Dimidium plus Toto:</hi> Or the Art of telling lipt Money, when we can catch it; a very conciſe Piece, by <hi>Hogan Mogan, &amp;c.</hi> Pub<g ref="char:EOLhyphen"/>liſhed for the Benefit of all Sorts of Perſons in the Kingdom, but eſpecially for the City of <hi>London</hi> and <hi>Lombard Street.</hi>
+               </item>
+               <item>12. <hi>Petitio Principii:</hi> An elaborate Treatiſe to prove <hi>War</hi> the only Way and Means to ſupport the <hi>Goſpel of Peace;</hi> or that <hi>San<g ref="char:EOLhyphen"/>guis Martyrum</hi> and <hi>Semen Proteſtantis Eccleſiae</hi> are inconſiſtent Terms. By the Reformed <hi>Sinect:</hi> or the <hi>London Divines.</hi>
+               </item>
+               <item>13. <hi>Arcana Imperii:</hi> Or the <hi>French</hi> King's <hi>Cabinet Council</hi> un<g ref="char:EOLhyphen"/>lock'd: Being a rare Myſterions Piece, Shewing the Ways and Means of buying <hi>Towns</hi> without <hi>Money,</hi> maintaining <hi>Armies</hi> with<g ref="char:EOLhyphen"/>out <hi>Neceſſaries,</hi> ſeeding his <hi>Subjects</hi> without <hi>Bread,</hi> with many o<g ref="char:EOLhyphen"/>ther
+<pb n="3" facs="tcp:109051:2"/>admirable <hi>State Politicks:</hi> Dedicated to the <hi>Houſe of Commons,</hi> with an humble Petition, That the like Arts may be diſcovered and ſpeedily put in Practice here for the <hi>Publick Good;</hi> leſt it ſhould be too late, and our Invention fail us, when all our <hi>Money</hi> is gone.</item>
+               <item>14. <hi>Ars numerandi:</hi> Arithmetick a fine Science; or <hi>John Par<g ref="char:EOLhyphen"/>tridge</hi>'s Skill of multiplying 2256 by 6, to prove that on <hi>May</hi> the <hi>20th</hi> and <hi>22th</hi> 1685, the perjured <hi>Salamanca Doctor</hi> had 13536 Stripes upon his brawny Shoulders. Dedicated to <hi>Robin Hog.</hi>
+               </item>
+               <item>15. <hi>Monoculus:</hi> Or Dr. <hi>L—n</hi> with one Eye (and that none of the beſt) ſeeing more <hi>Piracy</hi> in <hi>Privateering,</hi> than the Learned Dr. <hi>O—ſh</hi> with both. A very uſeful Piece, eſpecially for all <hi>Sea<g ref="char:EOLhyphen"/>men</hi> in Service under the preſent Government; whereunto are ad<g ref="char:EOLhyphen"/>ded certain Devotions and Prayers fitted for their Uſe, when they go to be hanged.</item>
+               <item>16. <hi>Malum neceſſarium:</hi> Or a Pea to keep open the Iſſue of <hi>Schiſm.</hi> Dedicated to <hi>Don Juan Aquilonius,</hi> by <hi>Corah</hi> Inventor of the <hi>Bar<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ccian Manuſcript.</hi>
+               </item>
+               <item>17. <hi>Jara Perjura, &amp;c.</hi> Or Perjury no Sin; A very neceſſary Treatiſe in theſe Times, for the Satisfaction of all <hi>tainted Conſcien<g ref="char:EOLhyphen"/>ces,</hi> very learnedly and elaborately Performed by the <hi>Maſter</hi> of the <hi>Temple.</hi>
+               </item>
+               <item>18. <hi>Meſſalina:</hi> A very pleaſant Treatiſe, Recommended to all Ladies, eſpecially about the Court; Wherein is clearly proved, that a Woman lying w<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th a hundred Husbands <hi>de facto,</hi> doth not <hi>Cuckold</hi> her <hi>Husband de j<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re</hi> By Dr. <hi>Sherlock's Wife.</hi>
+               </item>
+               <item>19. <hi>Nemo tenetur ea impoſſible:</hi> Or an Apology for Non pay<g ref="char:EOLhyphen"/>ment of <hi>Taxes,</hi> they being <hi>too Many and too Mighty</hi> for our Pur<g ref="char:EOLhyphen"/>ſes. By a <hi>Lover</hi> of his <hi>Countrey</hi>
+               </item>
+               <item>20. <hi>Davas omnia, &amp;c</hi> Or the <hi>Belgick Leviathan;</hi> A Treatiſe ſhewing the Inſtrumental Cauſe of all the intolerable Miſeries, that have lately beialn theſe <hi>once</hi> Three flouriſhing Kingdoms. Dedi<g ref="char:EOLhyphen"/>cated to the <hi>Dutch Stadt-holder.</hi>
+               </item>
+               <item>22. <hi>Hyſteron Proteron:</hi> Or <hi>Martha</hi>'s part preferred before <hi>Ma<g ref="char:EOLhyphen"/>ry</hi>'s; A Sermon lately preached by the <hi>Vicar of Bray,</hi> and Dedica<g ref="char:EOLhyphen"/>ted to the <hi>Children</hi> of this <hi>Generation.</hi>
+               </item>
+               <pb n="4" facs="tcp:109051:3"/>
+               <item>22. <hi>Ego non ſum ego:</hi> A large Treatiſe learnedly proving it law<g ref="char:EOLhyphen"/>ful to aſſert and uſe the equivocating, reſerving and depoſing Do<g ref="char:EOLhyphen"/>ctrines, and all other the worſt <hi>Principles</hi> and <hi>Practices</hi> of the <hi>Pa<g ref="char:EOLhyphen"/>piſts,</hi> provided it be done demurely, and at leaſt under <hi>Pretence</hi> of advancing the <hi>Proteſtant Religion.</hi> By <hi>Simon</hi> the <hi>Pilgrim,</hi>
+               </item>
+               <item>23. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. A Curious fine Cobweb Piece, to prove that it is much better to live under <hi>five hundred Tyrants,</hi> than one law<g ref="char:EOLhyphen"/>ful <hi>King.</hi> By a <hi>Republican Club:</hi> Publiſhed to ſhew what they would be at.</item>
+               <item>24. <hi>Intus &amp; in Cute:</hi> Or the Anatomy of a <hi>Penſioned Parliament-man,</hi> Shewing <hi>1ſt.</hi> his <hi>Original Diſpoſition</hi> or <hi>Propenſity</hi> to ſuch a Place, from a Neceſſity of <hi>Protection</hi> from his <hi>Creditors; 2dly.</hi> his <hi>Methods</hi> of acquiring it, <hi>viz.</hi> by <hi>wheadling, fawning, cringing, ſcraping, ſwearing, lying, &amp;c.</hi> and <hi>3dly.</hi> his <hi>Behaviour</hi> in it, which is to ſell his <hi>Countrey</hi> to <hi>reimburſe himſelf, &amp;c.</hi> together with ſome Politick Reflections on ſuch as pawn their <hi>Liberties</hi> and <hi>Properties</hi> for the Sake of <hi>Roaſt-Beef</hi> and <hi>Strong Drink:</hi> Recommended to all the <hi>pretended Freemen of England.</hi>
+               </item>
+               <item>25. <hi>Speculum Rebellium:</hi> Or the Deſcription of a ſtrange <hi>Mir<g ref="char:EOLhyphen"/>rour,</hi> wherein a <hi>Williamite</hi> cannot look, but he will either ſee a <hi>Knave</hi>'s or a <hi>Fool</hi>'s Face,</item>
+               <item>26. <hi>Politicis atque Poetis quidlibet, &amp;c.</hi> Or the Hiſtory of the <hi>cutting</hi> of the <hi>Throats,</hi> of <hi>Men, Women</hi> and <hi>Children,</hi> and <hi>burning Towns</hi> in all parts of <hi>England,</hi> in <hi>one Day,</hi> by five hundred <hi>ſtarv'd Iriſh,</hi> who were almoſt frighted out of their <hi>Wits,</hi> as not knowing where to hide themſelves.</item>
+               <item>27. <hi>Eques averſus:</hi> Or an Art to make all Perſons acknowledge, That a Man <hi>faceth his Enemy</hi> all the time that he <hi>runs away,</hi> by ſit<g ref="char:EOLhyphen"/>ting with his Face towards the Horſe's Tail, A <hi>Dutch piece,</hi> very uſeful in time of War; and Dedicated to the Mighty <hi>General</hi> of the <hi>Confederate Forces.</hi>
+               </item>
+            </list>
+            <list>
+               <head>PETITIONS.</head>
+               <item>1. <hi>The humble Petition</hi> of Dr <hi>Fowler,</hi> That the <hi>Croſs</hi> upon the Dial-Plate at <hi>Cripplegate</hi> (being a great Offence to the Eyes of weak
+<pb n="5" facs="tcp:109051:3"/>Brethren, when they gape to ſee what a clock it is) may be effect<g ref="char:EOLhyphen"/>ually raſed, and the <hi>Figure</hi> XII put in its place.</item>
+               <item>2. <hi>The humble Petition</hi> of Sir <hi>William Cooper,</hi> and others, to the <hi>Honourable</hi> the <hi>Houſe</hi> of <hi>Commons,</hi> That whereas many of the <hi>Ho<g ref="char:EOLhyphen"/>nourable Members</hi> of the <hi>Houſe</hi> are ſhamefully in <hi>Debt,</hi> and their <hi>Cre<g ref="char:EOLhyphen"/>ditors</hi> are an Eye-ſore to them, notwithſtanding their <hi>Privileges, All the Members</hi> of the ſaid <hi>Honourable Houſe</hi> may from henceforth be freely and clearly diſcharged of their <hi>Debts,</hi> or have full Liberty <hi>never to pay any.</hi>
+               </item>
+               <item>3. <hi>The humble Petition</hi> of Sr. <hi>W. H-y-v-d</hi> to the <hi>Honourable Houſe of Commons,</hi> That if the <hi>Wife</hi> of any Member of the ſaid Houſe (while her Husband is buſied day and night, in contriving Ways and Means how to undo his Countrey to ſerve the King) ſhall, for want of due Benevolence, make him a <hi>Cuckold</hi> and get the <hi>Pox,</hi> it ſhall only be called a <hi>Rheumatiſm,</hi> and ſhe ſhall be cured at the <hi>pub<g ref="char:EOLhyphen"/>lick Charge.</hi>
+               </item>
+               <item>4. <hi>A Petition of Right</hi> preſented to their <hi>U—ſhips,</hi> by the <hi>Wa<g ref="char:EOLhyphen"/>termen and Carmen</hi> in and about the City of <hi>London,</hi> wherein they ſet forth their <hi>Grievances,</hi> That by the Means and Encouragement of the <hi>encroaching Houſe</hi> of <hi>Commons,</hi> their <hi>Rights and Privileges,</hi> con<g ref="char:EOLhyphen"/>trary to the <hi>Fundamental Laws</hi> of this Kingdom, are manifeſtly in<g ref="char:EOLhyphen"/>vaded by the Licenſed <hi>Hackney</hi> Coach men.</item>
+               <item>5. <hi>The humble Petition</hi> of Dr. <hi>Titus Oats</hi> to the Honourable Houſe of <hi>Commons,</hi> againſt <hi>Robin Hog <hi>alias</hi> Stephens,</hi> for Uſurping his Profeſſion, and endeavouring to monopolize his <hi>Salamanca</hi> Arts and Sciences of <hi>Impudence, Perjury, &amp;c.</hi> Printed for the Author.</item>
+               <item>6. <hi>The humble Petition</hi> of <hi>Evidence Fuller,</hi> That though he had not <hi>Wit</hi> enough to make ſo great a <hi>Knave</hi> as he would; yet ſince his Miſcarriage proceeded from an hearty Love to <hi>Villainy,</hi> and a <hi>deviliſh Devotion</hi> to the Government, he may be diſcharged out of Priſon, and allowed a <hi>Penſion,</hi> promiſing that upon his Releaſment he will never reſt, till he hath found out greater <hi>Rogues</hi> than him<g ref="char:EOLhyphen"/>ſelf, and much fitter for the <hi>Service</hi> of the Government.</item>
+               <item>7. <hi>The humble Petition</hi> of the <hi>Souldiers and Seamen's Wives</hi> to <hi>both Houſes</hi> of <hi>Parliament,</hi> That it may be ſpeedily Enacted <hi>that they and
+<pb n="6" facs="tcp:109051:4"/>their Children ſhall never be Hungry,</hi> ſeeing they are not able to endure their <hi>cries</hi> for <hi>Bread,</hi> when they have <hi>nothing</hi> to <hi>give</hi> them.</item>
+               <item>8. <hi>The Hamble Petition</hi> of <hi>Miin Heer Benting</hi> to Sr. <hi>William Aſhurſt</hi> Lord Mayor of <hi>London,</hi> That his Lordſhip would be pleaſed to ſpare him his Chaplain <hi>Stephens,</hi> becauſe he is the fitteſt Man for him, they having been both of a Trade; promiſing that in lieu of him he will ſend his Lordſhip a <hi>Dutch Anabaptiſt,</hi> who may be much more ſerviceable to him.</item>
+               <item>9. <hi>The Humble Petition</hi> of Dr. <hi>Littleton,</hi> to the Right Honourable the <hi>Lords</hi> of the <hi>Privy Council,</hi> That an Order may be iſſued out to him to draw up an <hi>Information</hi> of <hi>Piracy</hi> againſt Mr. <hi>Bradſhaw,</hi> it being the only ſure way left to <hi>diſpatch</hi> him, the very Sight of whom is ſuch a Plague to his Doctorſhip, that he fears it will provoke him <hi>to put out his other Eye,</hi> that he may not be able <hi>to ſee</hi> his <hi>own Shame.</hi>
+               </item>
+               <item>10. <hi>The humble Petition</hi> of the Poor in and about the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> That ſince Money is grown ſo ſcarce, and their Society ſo numerous, that <hi>Begging</hi> will not maintain them, it may be lawful for them to <hi>Steal</hi> a little. Delivered at <hi>Kenſington,</hi> and Signed by above 10000 Hands.</item>
+               <item>11. <hi>The Humble Petition</hi> of the <hi>Bankers</hi> in behalf of <hi>all Clippers and Coiners,</hi> That not only they be not farther <hi>proſecuted,</hi> but that they may be <hi>incorporated</hi> into a <hi>Society,</hi> with ſpecial Privileges and Encou<g ref="char:EOLhyphen"/>ragements for a ſpeedy ſupply of Monies, which otherwiſe in a ſhort time will be all gone.</item>
+            </list>
+            <list>
+               <head>Acts of Parliament.</head>
+               <item>1. <hi>An Act of Parliament,</hi> That whereas the Members of the Houſe of Commons, for divers Reaſons, are become aſhamed to demand the ancient Allowance formerly paid by the reſpective Pla<g ref="char:EOLhyphen"/>ces for which they were elected, they ſhall from henceforth imme<g ref="char:EOLhyphen"/>diately upon the return of their Election be made Penſioners of the Crown; That inſtead of Repreſentatives of their Countrey they may become the King's Servants, and ſo be enabled when they make any <hi>ſweet Preſents</hi> to <hi>
+                     <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>k</hi> their own <hi>Fingers.</hi>
+               </item>
+               <item>2. <hi>An Act of Parliament,</hi> That whereas the numerous and libe<g ref="char:EOLhyphen"/>ral
+<pb n="7" facs="tcp:109051:4"/>
+                  <hi>Penſions</hi> given to Members of the Houſe of <hi>Commons</hi> cannot ſo calm all their Spirits, but that ſome of them, upon particular Occaſions, are very apt to grow mutinous, there be allowed extra<g ref="char:EOLhyphen"/>ordinary the Yearly Sum of 200000 <hi>l.</hi> to his Majeſty, to be diſper<g ref="char:EOLhyphen"/>ſed among them at his Diſcretion upon emergent Occaſions, over and above all <hi>Penſions,</hi> by the name of <hi>H<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſh-money.</hi>
+               </item>
+               <item>3. <hi>An Act of Parliament,</hi> That the name of <hi>Lombard street</hi> be changed to <hi>Lumber-ſtreet,</hi> and that the unneceſſary <hi>Bankers</hi> be re<g ref="char:EOLhyphen"/>moved thence and ſent to <hi>Holland,</hi> and in their Room be placed <hi>Pawn-Brokers, Apprizers</hi> and <hi>Seller of Second hand Goods;</hi> that peo<g ref="char:EOLhyphen"/>ple who have parted with all their <hi>money,</hi> may know where to diſ<g ref="char:EOLhyphen"/>poſe of or ſell the <hi>Furniture</hi> of their Houſes.</item>
+               <item>4. <hi>An Act of Parliament,</hi> That <hi>Right</hi> ſhall be <hi>Wrong</hi> and <hi>Wrong Right;</hi> that <hi>Truth</hi> ſhall be <hi>Lying,</hi> and <hi>Lying Truth;</hi> That the <hi>poor</hi> who are <hi>ſtarv'd</hi> here ſhall be reported to be <hi>ſtarv'd</hi> in <hi>France;</hi> and that all the <hi>Barbarities</hi> committed by P. <hi>O.</hi> be charged upon the <hi>French</hi> King.</item>
+               <item>5. <hi>An Act of Parliament,</hi> That <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e <hi>French</hi> King ſhall reſtore the <hi>two thouſand five hundred</hi> Merchants Ships and upwards, which he hath taken from us, under this penalty, that if he do not, we will ſpeedily loſe or make away all the reſt, and ſo utterly undo all his Privateers by leaving them no <hi>Prizes</hi> to take.</item>
+               <item>6. <hi>An Act of Parliament</hi> to make P. O. <hi>Invulnerable,</hi> that he may no more ſo ſhamefully run away, as he did at <hi>Landen;</hi> as al<g ref="char:EOLhyphen"/>ſo to encourage him to carry on a Vigorous War againſt <hi>France.</hi>
+               </item>
+               <item>7 <hi>An Act of Parliament,</hi> That P. <hi>O's Noſe</hi> be pared, or laid on one Side; becauſe it ſhadows his Brains, and ſtands in his Light, that he can neither ſee his Enemies, nor his proper Advantages,</item>
+            </list>
+            <list>
+               <head>Caſes of Conſcience and Queries.</head>
+               <item>1. Since <hi>Rebellion</hi> is forbidden by Divine Authority under pain of <hi>Damnation,</hi> as ſtrictly and in as expreſs Terms as any other grie<g ref="char:EOLhyphen"/>vous Sin, Whether we may not as lawfully Authoriſe men to <hi>Per<g ref="char:EOLhyphen"/>jure</hi> themſelves, <hi>murder, whore, ſteal, bear falſe witneſs,</hi> or commit any other <hi>crying Sin,</hi> as to <hi>rebell</hi> againſt their <hi>lawful Sovereign.</hi>
+               </item>
+               <pb n="8" facs="tcp:109051:5"/>
+               <item>2. Whether an <hi>Act of Parliament</hi> can ſecure a Man from <hi>Dam<g ref="char:EOLhyphen"/>nation,</hi> who in Obedience to it violates the known Laws of God?</item>
+               <item>3. Whether that's properly called a <hi>Chriſtian State,</hi> where they ſet up their own Laws in direct Oppoſition to the Laws of God and of Chriſt?</item>
+               <item>4. Whether when King <hi>James</hi>'s Health was propoſed to be drunk, in regard he was Q. <hi>Mary</hi>'s Father, Mr. <hi>Emerton</hi> did not pertinently propoſe this Queſtion to be firſt reſolved, <hi>Whether ſhe acknowledged him as ſuch?</hi>
+               </item>
+               <item>5. Whether <hi>John of Lambeth,</hi> though he ſeem not to approve of ſome means they uſed, did not implicitly confeſs, That heath thought <hi>all parties whatſoever to be in the Right</hi> when he made this Complaint in his late Sermon, That <hi>the Zealots of all parties had got a ſcurvy trick of lying for the Truth?</hi>
+               </item>
+               <item>6. Whether it be not to work a Miracle, equal to any among the Papiſts, to make thoſe <hi>Fathers</hi> in a Church who never were <hi>Sons</hi> of it?</item>
+               <item>7. What Courſe we muſt take to raiſe Six Millions <hi>next Year,</hi> when all our Money is likely, <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſwallowed up <hi>this Year</hi> in the <hi>Exchequer Funds,</hi> and from thence to be tranſported to <hi>Holland?</hi>
+               </item>
+               <item>8. What will become of the Vigorous War againſt <hi>France</hi> when all our Money is gone?</item>
+               <item>9. Whether our <hi>Fund Merchants</hi> and <hi>Purchaſers</hi> of <hi>Revenues</hi> in the <hi>Exchequer,</hi> be not like <hi>Aeſop</hi>'s Dog, who let go and loſt the <hi>Subſtance</hi> to catch at the <hi>Shadow?</hi>
+               </item>
+               <item>10. Whether <hi>Fleet. Shepherd</hi> did not give a more ſatisfactory Anſwer to King <hi>James</hi>'s Declaration than Dr. <hi>Welwood,</hi> when (King <hi>James</hi>'s Declaration being produced) he luſtily ſwore, That <hi>his <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the</hi> P. <hi>of</hi> O. <hi>had taken the right courſe to make no Declarations be believed, by not keeping the leaſt tittle of any of his own?</hi>
+               </item>
+               <item>11. Whether our <hi>Weathercock Swearing Clergy</hi> would not cry out <hi>a bleſſed Reformation,</hi> if their dear <hi>Dutch Saviour William HENRY</hi> P. O. <hi>alias</hi> King <hi>de facto,</hi> ſhould (to which he is in a fair way) <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Old Proverb or Propheſy, <hi>viz,</hi>
+                  <q>
+                     <l>As <hi>Henry</hi> the Eighth, deſtroyed Monaſteries and Cells,</l>
+                     <l>
+                        <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <hi>HENRY</hi> the Ninth, ſhall pull down Ch<gap reason="illegible" resp="#MURP" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>es and Bells.</l>
+                  </q>
+               </item>
+            </list>
+            <pb facs="tcp:109051:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
